@@ -1,4 +1,4 @@
 streamlit>=1.36.0
-streamlit-autorefresh==1.0.1
-Pillow==10.3.0
+streamlit-autorefresh
+Pillow
 firebase-admin
